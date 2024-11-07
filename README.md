@@ -4,8 +4,9 @@
 - Need to install jdk 11, gradle
 - Configure Environment variable for jdk 11 and gradle
 - Clone this project
-- Open the project folder
-- 
+- Open the project folder with intellij
+- Click on the terminal and run the automation scripts with this command:
+  ```gradle clean test
 
 
 ## About this project
