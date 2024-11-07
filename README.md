@@ -6,7 +6,7 @@
 - Clone this project
 - Open the project folder with intellij
 - Click on the terminal and run the automation scripts with this command:
-  ```gradle clean test
+  ```gradle clean test```
 
 
 ## About this project
