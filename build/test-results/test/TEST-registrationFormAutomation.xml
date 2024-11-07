@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="registrationFormAutomation" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-11-07T06:01:20" hostname="AASIF" time="10.026">
+  <properties/>
+  <testcase name="registrationAutomation()" classname="registrationFormAutomation" time="10.026"/>
+  <system-out><![CDATA[Registration Form
+Examples
+Design
+Login
+]]></system-out>
+  <system-err><![CDATA[Nov 07, 2024 12:01:20 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 130, returning the closest version; found: 129; Please update to a Selenium version that supports CDP version 130
+]]></system-err>
+</testsuite>
