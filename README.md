@@ -20,3 +20,4 @@ Registration from:
 - Automate following Input fields: Firstname, Lastname, UserEmail, Password, Gender, Date of Birth, Nationality, Phone, Country(Bangladesh), Terms & Conditions
 - Automate submit button
 - Finally, Assert that registration is successful
+
